@@ -1,9 +1,9 @@
 <?php 
 
 // creating connection with db
-	$servername = "localhost";
+	$servername = "mysql";
 	$username = "root";
-	$password = "";
+	$password = "root";
 	$dbname = "traindb";
 
 	// Create connection
